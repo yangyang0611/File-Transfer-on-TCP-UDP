@@ -3,7 +3,7 @@ Computer Communication Networks - School Works
 #### NOTICE: CLIENT'S WINDOWS HAVE TO OPN BEFORE SERVER'S WINDOW
 
 ## lab 1
-### Impliment on TCP & UDP protocol
+### Implimentation package transfering on TCP & UDP protocol
 1. server --- send document
 - devided document into serveral socket
 - print out succeed transfering time with every 25% send
@@ -16,7 +16,7 @@ Computer Communication Networks - School Works
 - create a new file when transfer is succed
 
 ## lab 2
-### LLMP multicast can only implement on UDP protocol
+### LLMP multicast -- which can only be implemented on UDP protocol
 1. server --- send document to 3 client
 - print out file size TO BE SEND
 
