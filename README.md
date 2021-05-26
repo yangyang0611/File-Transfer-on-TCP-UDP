@@ -1,5 +1,5 @@
 # Network
-#### NOTICE: CLIENT'S WINDOWS HAVE TO OPN BEFORE SERVER'S WINDOW
+#### NOTICE: CLIENT'S WINDOWS HAVE TO OPEN BEFORE SERVER'S WINDOW
 
 ## lab 1
 ### Implimentation package transfering on TCP & UDP protocol
