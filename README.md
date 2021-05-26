@@ -1,5 +1,4 @@
 # Network
-Computer Communication Networks - School Works
 #### NOTICE: CLIENT'S WINDOWS HAVE TO OPN BEFORE SERVER'S WINDOW
 
 ## lab 1
